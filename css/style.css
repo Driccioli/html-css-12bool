@@ -1,0 +1,11 @@
+[class*="col-"]{
+    border: 1px solid black;
+    background-color: lightpink;
+    text-align: center;
+    line-height:20vh;
+}
+
+.nested{
+    border:2px solid lightpink;
+    background-color: lightsalmon;
+}
