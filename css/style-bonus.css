@@ -1,0 +1,11 @@
+[class*="col-"]{
+    height:4vh;
+}
+
+.black{
+    background-color: black;
+}
+
+.pink{
+    background-color: lightpink;
+}
